@@ -53,7 +53,7 @@ h1{
     padding: 20px;
 }
 .sub-btn {
-    width: 100%;
+    width: 50%;
     color: var(--White);
     border: none;
     border-radius: 2rem;
